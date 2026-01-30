@@ -16,5 +16,5 @@ The project includes **data cleaning, transformation, and modeling** using Power
 - Data Visualization
 
 ## 📽 Demo
-A short demo video of the dashboard is available in this repository.
+A short demo of the dashboard is available in this repository.
 ![image alt](https://github.com/subhashabhishek1901/Blinkit-Sales-Analytics-Dashboard/blob/e839f40c96a49a55c850bb0de84f92a93304ac72/Blinket%20Grocery%20Sales%20Analysis%20Project.png)
